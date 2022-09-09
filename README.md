@@ -1,1 +1,1 @@
-# Exercicios-javaScript
+# Mini Projetos-javaScript
